@@ -1,0 +1,13 @@
+D:\ESOtest\ESOTest\bin\Debug\netcoreapp3.1\ESOTest.exe
+D:\ESOtest\ESOTest\bin\Debug\netcoreapp3.1\ESOTest.deps.json
+D:\ESOtest\ESOTest\bin\Debug\netcoreapp3.1\ESOTest.runtimeconfig.json
+D:\ESOtest\ESOTest\bin\Debug\netcoreapp3.1\ESOTest.runtimeconfig.dev.json
+D:\ESOtest\ESOTest\bin\Debug\netcoreapp3.1\ESOTest.dll
+D:\ESOtest\ESOTest\bin\Debug\netcoreapp3.1\ESOTest.pdb
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.csprojAssemblyReference.cache
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.AssemblyInfoInputs.cache
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.AssemblyInfo.cs
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.csproj.CoreCompileInputs.cache
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.dll
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.pdb
+D:\ESOtest\ESOTest\obj\Debug\netcoreapp3.1\ESOTest.genruntimeconfig.cache

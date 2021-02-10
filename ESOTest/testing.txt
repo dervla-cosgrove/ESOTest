@@ -1,0 +1,81 @@
+'101' 	Sweep the floor		crew 1	08/02/2021	daily
+'102' 	Empty the trash		crew 1	08/02/2021	every second day
+'103' 	Wash the fire engine	crew 1	08/02/2021	once a week
+'101' 	Sweep the floor		crew 1	09/02/2021	daily
+'101' 	Sweep the floor		crew 1	10/02/2021	daily
+'102' 	Empty the trash		crew 1	10/02/2021	every second day
+'101' 	Sweep the floor		crew 1	11/02/2021	daily
+'101' 	Sweep the floor		crew 1	12/02/2021	daily
+'102' 	Empty the trash		crew 1	12/02/2021	every second day
+'101' 	Sweep the floor		crew 1	13/02/2021	daily
+'101' 	Sweep the floor		crew 1	14/02/2021	daily
+'102' 	Empty the trash		crew 1	14/02/2021	every second day
+'101' 	Sweep the floor		crew 2	15/02/2021	daily
+'103' 	Wash the fire engine	crew 2	15/02/2021	once a week
+'101' 	Sweep the floor		crew 2	16/02/2021	daily
+'102' 	Empty the trash		crew 2	16/02/2021	every second day
+'101'   Sweep the floor		crew 2	17/02/2021	daily
+'101' 	Sweep the floor		crew 2	18/02/2021	daily
+'102' 	Empty the trash		crew 2	18/02/2021	every second day
+'101' 	Sweep the floor		crew 2	19/02/2021	daily
+'101' 	Sweep the floor		crew 2	20/02/2021	daily
+'102' 	Empty the trash		crew 2	20/02/2021	every second day
+'101'	Sweep the floor		crew 2	21/02/2021	daily
+'101'	Sweep the floor		crew 1	22/02/2021	daily
+'102'	Empty the trash		crew 1	22/02/2021	every second day
+'103'	Wash the fire engine	crew 1	22/02/2021	once a week
+'101'	Sweep the floor		crew 1	23/02/2021	daily
+'101'	Sweep the floor		crew 1	24/02/2021	daily
+'102'	Empty the trash		crew 1	24/02/2021	every second day
+'101'	Sweep the floor		crew 1	25/02/2021	daily
+'101'	Sweep the floor		crew 1	26/02/2021	daily
+'102'	Empty the trash		crew 1	26/02/2021	every second day
+'101'	Sweep the floor		crew 1	27/02/2021	daily
+'101'	Sweep the floor		crew 1	28/02/2021	daily
+'102'	Empty the trash		crew 1	28/02/2021	every second day
+'101'	Sweep the floor		crew 2	01/03/2021	daily
+'103'	Service fire engine	crew 2	01/03/2021	once a week
+'101'	Sweep the floor		crew 2	02/03/2021	daily
+'102'	Empty the trash		crew 2	02/03/2021	every second day
+'101'	Sweep the floor		crew 2	03/03/2021	daily
+'101'	Sweep the floor		crew 2	04/03/2021	daily
+'102'	Empty the trash		crew 2	04/03/2021	every second day
+'101'	Sweep the floor		crew 2	05/03/2021	daily
+'101'	Sweep the floor		crew 2	06/03/2021	daily
+'102'	Empty the trash		crew 2	06/03/2021	every second day
+'101'	Sweep the floor		crew 2	07/03/2021	daily
+'101'	Sweep the floor		crew 1	08/03/2021	daily
+'102'	Empty the trash		crew 1	08/03/2021	every second day
+'103'	Wash the fire engine	crew 1	08/03/2021	once a week
+'101'	Sweep the floor		crew 1	09/03/2021	daily
+'101'	Sweep the floor		crew 1	10/03/2021	daily
+'102'	Empty the trash		crew 1	10/03/2021	every second day
+'101'	Sweep the floor		crew 1	11/03/2021	daily
+'101'	Sweep the floor		crew 1	12/03/2021	daily
+'102'	Empty the trash		crew 1	12/03/2021	every second day
+'101'	Sweep the floor		crew 1	13/03/2021	daily
+'101'	Sweep the floor		crew 1	14/03/2021	daily
+'102'	Empty the trash		crew 1	14/03/2021	every second day
+'101'	Sweep the floor		crew 2	15/03/2021	daily
+'103'	Wash the fire engine	crew 2	15/03/2021	once a week
+'101'	Sweep the floor		crew 2	16/03/2021	daily
+'102'	Empty the trash		crew 2	16/03/2021	every second day
+'101'	Sweep the floor		crew 2	17/03/2021	daily
+'101'	Sweep the floor		crew 2	18/03/2021	daily
+'102'	Empty the trash		crew 2	18/03/2021	every second day
+'101'	Sweep the floor		crew 2	19/03/2021	daily
+'101'	Sweep the floor		crew 2	20/03/2021	daily
+'102'	Empty the trash		crew 2	20/03/2021	every second day
+'101'	Sweep the floor		crew 2	21/03/2021	daily
+'101'	Sweep the floor		crew 1	22/03/2021	daily
+'102'	Empty the trash		crew 1	22/03/2021	every second day
+'103'	Wash the fire engine	crew 1	22/03/2021	once a week
+'101'	Sweep the floor		crew 1	23/03/2021	daily
+'101'	Sweep the floor		crew 1	24/03/2021	daily
+'102'	Empty the trash		crew 1	24/03/2021	every second day
+'101'	Sweep the floor		crew 1	25/03/2021	daily
+'101'	Sweep the floor		crew 1	26/03/2021	daily
+'102'	Empty the trash		crew 1	26/03/2021	every second day
+'101'	Sweep the floor		crew 1	27/03/2021	daily
+'101'	Sweep the floor		crew 1	28/03/2021	daily
+'102'	Empty the trash		crew 1	28/03/2021	every second day
